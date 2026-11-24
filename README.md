@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Start a new life in the enchanting town of Portia! Restore your Pa's neglected workshop to its former glory by fulfilling commissions, growing crops, raising animals, and befriending the quirky inhabitants of this charming post-apocalyptic land!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min:  / Rec: Windows 10 64 bit | MAC OS X 10.15 + |
+| **Processor** | Min: Intel i3 Processor / Rec: Intel i7 Processor | Apple M1 |
+| **Memory** | Min: 6 GB RAM / Rec: 16 GB RAM | 4 GB RAM |
+| **Graphics** | Min: ATI 7770, Nvidia GeForce GTX 660 2GB / Rec: Nvidia GeForce GTX960+ | Apple M1 |
+| **DirectX** | Min: Version 10 / Rec: Version 11 | Version 10 |
+| **Storage** | Min: 6 GB available space / Rec: 10 GB available space | 6 GB available space |
+| **OS *** | Windows 7+ / 8.1 / 10 64 bit | Windows 7+ / 8.1 / 10 64 bit |
 
 ---
 
